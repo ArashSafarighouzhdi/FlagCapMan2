@@ -1,12 +1,12 @@
 # 🎮 FlagCapMan v2.0
 
-FlagCapMan is a creative mix of the classic Hangman game and a Capital City Quiz! In each round, a country's flag is displayed, and your mission is to guess its capital by selecting letters — but be careful... with every wrong guess, the glowing red Hangman progresses step by step! ⚡
+FlagCapMan is a creative mix of the classic Hangman game and a Capital City Quiz! In each round, a country's flag is displayed, and your mission is to guess its capital by selecting letters, but be careful... with every wrong guess, the glowing red Hangman progresses step by step! ⚡
 
 ---
 
 ## 🌐 Live Demo
 
-👉 **[Play the Game Here](#)** _(add your GitHub Pages link)_
+👉 **[Play the Game Here](#)** _(https://arashsafarighouzhdi.github.io/FlagCapMan2/)_
 
 ---
 
