@@ -46,11 +46,11 @@ FlagCapMan is a creative mix of the classic Hangman game and a Capital City Quiz
 
 ## 🧩 Technologies Used
 
-- **HTML5** — Semantic structure and modern markup
-- **CSS3 (Grid + Animations)** — Responsive design with neon visuals
-- **JavaScript (ES6+)** — Async/await, Fetch API, DOM manipulation
-- **REST Countries API** — Live data source for flags and capitals
-- **localStorage** — Client-side score persistence
+- **HTML5** - Semantic structure and modern markup
+- **CSS3 (Grid + Animations)** - Responsive design with neon visuals
+- **JavaScript (ES6+)** - Async/await, Fetch API, DOM manipulation
+- **REST Countries API** - Live data source for flags and capitals
+- **localStorage** - Client-side score persistence
 
 ---
 
