@@ -6,7 +6,7 @@ FlagCapMan is a creative mix of the classic Hangman game and a Capital City Quiz
 
 ## 🌐 Live Demo
 
-👉 **[Play the Game Here](#)** _(https://arashsafarighouzhdi.github.io/FlagCapMan2/)_
+👉 **[Play the Game Here](https://arashsafarighouzhdi.github.io/FlagCapMan2/)**  
 
 ---
 
