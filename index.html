@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FlagCapMan</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+    <script src="./js/script.js" defer></script>
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="header_title">Welcome to FlagCapMan-v2.0 🌍</h1>
+    </header>
+
+    <main class="container">
+      <div class="game-controls">
+        <label class="region-label">
+          Region:
+          <select class="region-select">
+            <option value="all">All</option>
+            <option value="europe">Europe</option>
+            <option value="asia">Asia</option>
+            <option value="africa">Africa</option>
+            <option value="americas">Americas</option>
+            <option value="oceania">Oceania</option>
+          </select>
+        </label>
+        <button class="start-btn">Start Game</button>
+      </div>
+
+      <div class="error-message" style="display: none"></div>
+      <div class="loading-indicator" style="display: none">Loading...</div>
+
+      <h2 class="question">Click Start Game to begin!</h2>
+      <img class="flag" src="" alt="Flag" />
+
+      <img
+        class="hangman-image"
+        src=""
+        alt="Hangman Stage"
+        style="display: none"
+      />
+
+      <div class="word"></div>
+
+      <div class="options"></div>
+
+      <p class="result"></p>
+      <p class="score">Score: 0</p>
+    </main>
+
+    <footer class="footer">
+      <p>&copy; 2025 Arash / FlagCapMan - v2.0</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#070707"></rect>
+  <g stroke="#ff3b3b" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" fill="none">
+    <line x1="150" y1="700" x2="650" y2="700"></line>
+    <line x1="250" y1="700" x2="250" y2="140"></line>
+    <line x1="250" y1="140" x2="520" y2="140"></line>
+    <line x1="385" y1="140" x2="385" y2="220"></line>
+
+    <!-- head -->
+    <circle cx="385" cy="260" r="48" fill="none"></circle>
+    <!-- body -->
+    <line x1="385" y1="308" x2="385" y2="430"></line>
+    <!-- arms -->
+    <line x1="385" y1="340" x2="330" y2="390"></line>
+    <line x1="385" y1="340" x2="440" y2="390"></line>
+    <!-- legs -->
+    <line x1="385" y1="430" x2="340" y2="510"></line>
+    <line x1="385" y1="430" x2="430" y2="510"></line>
+  </g>
+</svg>
