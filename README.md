@@ -1,12 +1,12 @@
 # 🎮 FlagCapMan v2.0
 
-FlagCapMan is a creative mix of the classic Hangman game and a Capital City Quiz! In each round, a country's flag is displayed, and your mission is to guess its capital by selecting letters — but be careful... with every wrong guess, the glowing red Hangman progresses step by step! ⚡
+FlagCapMan is a creative mix of the classic Hangman game and a Capital City Quiz! In each round, a country's flag is displayed, and your mission is to guess its capital by selecting letters, but be careful... with every wrong guess, the glowing red Hangman progresses step by step! ⚡
 
 ---
 
 ## 🌐 Live Demo
 
-👉 **[Play the Game Here](#)** _(add your GitHub Pages link)_
+👉 **[Play the Game Here](https://arashsafarighouzhdi.github.io/FlagCapMan2/)**  
 
 ---
 
@@ -46,11 +46,11 @@ FlagCapMan is a creative mix of the classic Hangman game and a Capital City Quiz
 
 ## 🧩 Technologies Used
 
-- **HTML5** — Semantic structure and modern markup
-- **CSS3 (Grid + Animations)** — Responsive design with neon visuals
-- **JavaScript (ES6+)** — Async/await, Fetch API, DOM manipulation
-- **REST Countries API** — Live data source for flags and capitals
-- **localStorage** — Client-side score persistence
+- **HTML5** - Semantic structure and modern markup
+- **CSS3 (Grid + Animations)** - Responsive design with neon visuals
+- **JavaScript (ES6+)** - Async/await, Fetch API, DOM manipulation
+- **REST Countries API** - Live data source for flags and capitals
+- **localStorage** - Client-side score persistence
 
 ---
 
